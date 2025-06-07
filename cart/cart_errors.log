@@ -1,0 +1,74 @@
+[2025-05-31 18:12:36] Начало обработки запроса для product_id: 4
+[2025-05-31 18:12:36] Товар 4 существует
+[2025-05-31 18:12:36] User ID: 1, Session ID: 3shgni9lcdqt9ab4iqman8n7n0
+[2025-05-31 18:12:36] Поиск корзины для пользователя 1
+[2025-05-31 18:12:36] Найдена существующая корзина: 1
+[2025-05-31 18:12:36] Попытка добавить товар 4 в корзину 1
+[2025-05-31 18:12:36] Ошибка базы данных: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kursach`.`cart_items`, CONSTRAINT `cart_items_ibfk_1` FOREIGN KEY (`cart_id`) REFERENCES `cart` (`id`))
+[2025-05-31 18:13:10] Начало обработки запроса для product_id: 4
+[2025-05-31 18:13:10] Товар 4 существует
+[2025-05-31 18:13:10] User ID: 1, Session ID: 3shgni9lcdqt9ab4iqman8n7n0
+[2025-05-31 18:13:10] Поиск корзины для пользователя 1
+[2025-05-31 18:13:10] Найдена существующая корзина: 1
+[2025-05-31 18:13:10] Попытка добавить товар 4 в корзину 1
+[2025-05-31 18:13:10] Ошибка базы данных: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kursach`.`cart_items`, CONSTRAINT `cart_items_ibfk_1` FOREIGN KEY (`cart_id`) REFERENCES `cart` (`id`))
+[2025-05-31 18:17:41] Начало обработки запроса для product_id: 4
+[2025-05-31 18:17:41] Товар 4 существует
+[2025-05-31 18:17:41] User ID: 1, Session ID: 3shgni9lcdqt9ab4iqman8n7n0
+[2025-05-31 18:17:41] Поиск корзины для пользователя 1
+[2025-05-31 18:17:41] Найдена существующая корзина: 1
+[2025-05-31 18:17:41] Ошибка базы данных: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kursach`.`cart_items`, CONSTRAINT `cart_items_ibfk_1` FOREIGN KEY (`cart_id`) REFERENCES `cart` (`id`) ON DELETE CASCADE)
+[2025-05-31 18:17:54] Начало обработки запроса для product_id: 4
+[2025-05-31 18:17:54] Товар 4 существует
+[2025-05-31 18:17:54] User ID: 1, Session ID: 3shgni9lcdqt9ab4iqman8n7n0
+[2025-05-31 18:17:54] Поиск корзины для пользователя 1
+[2025-05-31 18:17:54] Найдена существующая корзина: 1
+[2025-05-31 18:17:54] Ошибка базы данных: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kursach`.`cart_items`, CONSTRAINT `cart_items_ibfk_1` FOREIGN KEY (`cart_id`) REFERENCES `cart` (`id`) ON DELETE CASCADE)
+[2025-05-31 18:19:47] Начало обработки запроса для product_id: 4
+[2025-05-31 18:19:47] Товар 4 существует
+[2025-05-31 18:19:47] User ID: 1, Session ID: 3shgni9lcdqt9ab4iqman8n7n0
+[2025-05-31 18:19:47] Поиск корзины для пользователя 1
+[2025-05-31 18:19:47] Найдена существующая корзина: 1
+[2025-05-31 18:19:47] Ошибка базы данных: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kursach`.`cart_items`, CONSTRAINT `cart_items_ibfk_1` FOREIGN KEY (`cart_id`) REFERENCES `cart` (`id`) ON DELETE CASCADE)
+[2025-05-31 18:21:40] Начало обработки запроса для product_id: 4
+[2025-05-31 18:21:40] Товар 4 существует
+[2025-05-31 18:21:40] User ID: 1, Session ID: 3shgni9lcdqt9ab4iqman8n7n0
+[2025-05-31 18:21:40] Поиск корзины для пользователя 1
+[2025-05-31 18:21:40] Найдена существующая корзина: 1
+[2025-05-31 18:21:40] Ошибка базы данных: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kursach`.`cart_items`, CONSTRAINT `cart_items_ibfk_1` FOREIGN KEY (`cart_id`) REFERENCES `cart` (`id`) ON DELETE CASCADE)
+[2025-05-31 18:24:59] Начало обработки запроса для product_id: 4
+[2025-05-31 18:24:59] Товар 4 существует
+[2025-05-31 18:24:59] User ID: 1, Session ID: 3shgni9lcdqt9ab4iqman8n7n0
+[2025-05-31 18:24:59] Поиск корзины для пользователя 1
+[2025-05-31 18:24:59] Найдена существующая корзина: 1
+[2025-05-31 18:24:59] Ошибка базы данных: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kursach`.`cart_items`, CONSTRAINT `cart_items_ibfk_1` FOREIGN KEY (`cart_id`) REFERENCES `cart` (`id`) ON DELETE CASCADE)
+[2025-05-31 18:36:47] Начало обработки запроса для product_id: 4
+[2025-05-31 18:36:47] Товар 4 существует
+[2025-05-31 18:36:47] User ID: 1, Session ID: 3shgni9lcdqt9ab4iqman8n7n0
+[2025-05-31 18:36:47] Поиск корзины для пользователя 1
+[2025-05-31 18:36:47] Найдена существующая корзина: 1
+[2025-05-31 18:36:47] Ошибка базы данных: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kursach`.`cart_items`, CONSTRAINT `cart_items_ibfk_1` FOREIGN KEY (`cart_id`) REFERENCES `cart` (`id`) ON DELETE CASCADE)
+[2025-05-31 18:37:32] Начало обработки запроса для product_id: 4
+[2025-05-31 18:37:32] Товар 4 существует
+[2025-05-31 18:37:32] User ID: 1, Session ID: 3shgni9lcdqt9ab4iqman8n7n0
+[2025-05-31 18:37:32] Поиск корзины для пользователя 1
+[2025-05-31 18:37:32] Найдена существующая корзина: 1
+[2025-05-31 18:37:32] Ошибка базы данных: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kursach`.`cart_items`, CONSTRAINT `cart_items_ibfk_1` FOREIGN KEY (`cart_id`) REFERENCES `cart` (`id`) ON DELETE CASCADE)
+[2025-05-31 18:38:56] Начало обработки запроса для product_id: 4
+[2025-05-31 18:38:56] Товар 4 существует
+[2025-05-31 18:38:56] User ID: 1, Session ID: 3shgni9lcdqt9ab4iqman8n7n0
+[2025-05-31 18:38:56] Поиск корзины для пользователя 1
+[2025-05-31 18:38:56] Найдена существующая корзина: 1
+[2025-05-31 18:38:56] Ошибка базы данных: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kursach`.`cart_items`, CONSTRAINT `cart_items_ibfk_1` FOREIGN KEY (`cart_id`) REFERENCES `cart` (`id`) ON DELETE CASCADE)
+[2025-05-31 18:42:04] Начало обработки запроса для product_id: 4
+[2025-05-31 18:42:04] Товар 4 существует
+[2025-05-31 18:42:04] User ID: 1, Session ID: 3shgni9lcdqt9ab4iqman8n7n0
+[2025-05-31 18:42:04] Поиск корзины для пользователя 1
+[2025-05-31 18:42:04] Найдена существующая корзина: 1
+[2025-05-31 18:42:04] Ошибка базы данных: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kursach`.`cart_items`, CONSTRAINT `cart_items_ibfk_1` FOREIGN KEY (`cart_id`) REFERENCES `cart` (`id`) ON DELETE CASCADE)
+[2025-05-31 18:42:24] Начало обработки запроса для product_id: 4
+[2025-05-31 18:42:24] Товар 4 существует
+[2025-05-31 18:42:24] User ID: 1, Session ID: 3shgni9lcdqt9ab4iqman8n7n0
+[2025-05-31 18:42:24] Поиск корзины для пользователя 1
+[2025-05-31 18:42:24] Найдена существующая корзина: 1
+[2025-05-31 18:42:24] Ошибка базы данных: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kursach`.`cart_items`, CONSTRAINT `cart_items_ibfk_1` FOREIGN KEY (`cart_id`) REFERENCES `cart` (`id`) ON DELETE CASCADE)
